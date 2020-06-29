@@ -1,0 +1,13 @@
+
+.col-sm{
+    color: darkred;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* background-color: darkolivegreen; */
+      /* padding-top: 3em;   */
+     position: relative; 
+    margin-top:2%;
+    width: 100%;
+}

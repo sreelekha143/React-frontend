@@ -1,0 +1,19 @@
+.card-img, .card-img-top {
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    height: 209px;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: lightyellow;
+    border-color: #0062cc;
+}
+.h3, h3 {
+    font-size: 3.1rem;
+    margin-left: 78px;
+    color: white;
+}
+
+.fa fa-trash{
+    width: 60%;
+}
